@@ -8,24 +8,24 @@ Eğer birinci eleman ikinci elemandan büyükse yer değiştirirler. Değilse bi
 İkinci eleman birinci indise alınır ilk eleman ikincisi indise alınır ve üçüncü eleman ile ikinci eleman kıyaslanır.
 Bu şekilde dizi elemanlarının hepsine bakılana kadar ve doğru sıralama elde edilene kadar işlem devam eder.
 
-Buna göre cevap şöyle olacaktır; [2,6,16,18,22,27]
+---Buna göre cevap şöyle olacaktır; [2,6,16,18,22,27]
 
-1. 
+
 
 ## Big-O gösterimini yazınız.
 
-Big-O=(n^2)
+---Big-O=(n^2)
 
-1. 
+
 
 ## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 Average case: Aradığımız sayının ortada olması
 Worst case: Aradığımız sayının sonda olması
 Best case: Aradığımız sayının dizinin en başında olması.
 
-Average Case'e girer.
+---Average Case'e girer.
 
-1. 
+ 
 
 ## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
